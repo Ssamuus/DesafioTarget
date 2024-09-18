@@ -3,6 +3,6 @@
 
 Ao final do processamento, qual será o valor da variável SOMA? 
 
--Resposta: O valor será 78.
+-Resposta: O valor será 77.
 
 """
